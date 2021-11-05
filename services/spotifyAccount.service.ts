@@ -23,8 +23,8 @@ export class SpotifyAccountService {
   private scopes = "";
 
   // identifiant de cette aplication par Spotify
-  private clientId = "9964dec0f948404eb6b0285252a65f1d";
-  private clientSecret = "a0c98b0ef7f84369a72495e627e5fb50";
+  private clientId = "XXXXXXXXXXXXXXX";
+  private clientSecret = "XXXXXXXXXXXXXXX";
 
   // url d'écoute du server
   private redirectUri = "http://beta.projectheberg.fr:20268/callback";
